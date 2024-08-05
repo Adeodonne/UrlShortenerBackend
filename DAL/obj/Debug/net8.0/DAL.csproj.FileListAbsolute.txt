@@ -1,0 +1,14 @@
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\bin\Debug\net8.0\DAL.dll
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.dll
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Downloads\PetProject\LinkShorter\backend\backend\DAL\obj\Debug\net8.0\ref\DAL.dll
